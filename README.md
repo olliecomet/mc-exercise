@@ -1,3 +1,7 @@
 # mc-exercise
 
-Here's a mess for you. Lets see if we can fix it. 
+Communicate before merging branches. 
+Merge branches one at a time. 
+Always pull from the origin before making a new branch.
+
+Ted = Ollie
